@@ -21,8 +21,8 @@ with col3:
    st.image("./img/iris3.jpg")
 
 html_7 = """
-<div style="background-color:#c5f18a;padding:15px;border-radius:15px 15px 15px 15px;border-style:'solid';border-color:black">
-<center><h5>ข้อมูล iris หรือข้อมูลดอกไม้สำหรับทำนาย</h5></center>
+<div style="background-color:#39edf6;padding:15px;border-radius:15px 15px 15px 15px;border-style:'solid';border-color:black">
+<center><h4>ข้อมูล iris หรือข้อมูลดอกไม้สำหรับทำนาย</h5></center>
 </div>
 """
 st.markdown(html_7, unsafe_allow_html=True)
