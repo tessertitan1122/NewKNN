@@ -1,7 +1,7 @@
-from sklearn.neighbors import KneighborsClassifier
+# from sklearn.neighbors import KneighborsClassifier
 import streamlit as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-st.header('kairung')
-st.title('TESTPYTHON')
+
+st.title('การจำแนกข้อมูลด้วยเทคนิค Machine Learnning')
